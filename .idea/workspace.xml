@@ -400,9 +400,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Nosetests_in_registration_test - 2016.05.07 at 00h 02m 19s.xml">
-      <configuration name="Nosetests in registration_test" configurationId="tests" />
-    </history-entry>
     <history-entry file="Nosetests_in_registration_test - 2016.05.07 at 00h 02m 34s.xml">
       <configuration name="Nosetests in registration_test" configurationId="tests" />
     </history-entry>
@@ -428,6 +425,9 @@
       <configuration name="Nosetests in registration_test" configurationId="tests" />
     </history-entry>
     <history-entry file="Nosetests_in_registration_test - 2016.05.07 at 00h 36m 15s.xml">
+      <configuration name="Nosetests in registration_test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_in_registration_test - 2016.05.07 at 00h 57m 33s.xml">
       <configuration name="Nosetests in registration_test" configurationId="tests" />
     </history-entry>
   </component>
