@@ -33,10 +33,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="registration_test.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="registration_test.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/registration_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.13422818">
+            <state vertical-scroll-proportion="0.0">
               <caret line="34" column="60" selection-start-line="34" selection-start-column="60" selection-end-line="34" selection-end-column="60" />
               <folding>
                 <element signature="e#37#52#0" expanded="true" />
@@ -89,11 +89,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="report.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="report.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/report.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="37" column="26" selection-start-line="37" selection-start-column="26" selection-end-line="37" selection-end-column="26" />
+            <state vertical-scroll-proportion="0.23489933">
+              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding>
                 <element signature="e#37#48#0" expanded="true" />
               </folding>
@@ -400,12 +400,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Nosetests_in_registration_test - 2016.05.06 at 23h 48m 28s.xml">
-      <configuration name="Nosetests in registration_test" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Nosetests_in_registration_test - 2016.05.06 at 23h 49m 37s.xml">
-      <configuration name="Nosetests in registration_test" configurationId="tests" />
-    </history-entry>
     <history-entry file="Nosetests_in_registration_test - 2016.05.06 at 23h 57m 26s.xml">
       <configuration name="Nosetests in registration_test" configurationId="tests" />
     </history-entry>
@@ -428,6 +422,12 @@
       <configuration name="Nosetests in registration_test" configurationId="tests" />
     </history-entry>
     <history-entry file="Nosetests_in_registration_test - 2016.05.07 at 00h 09m 34s.xml">
+      <configuration name="Nosetests in registration_test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_in_registration_test - 2016.05.07 at 00h 27m 49s.xml">
+      <configuration name="Nosetests in registration_test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_in_registration_test - 2016.05.07 at 00h 28m 26s.xml">
       <configuration name="Nosetests in registration_test" configurationId="tests" />
     </history-entry>
   </component>
@@ -574,16 +574,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/report.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="37" column="26" selection-start-line="37" selection-start-column="26" selection-end-line="37" selection-end-column="26" />
-          <folding>
-            <element signature="e#37#48#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///usr/local/lib/python2.7/dist-packages/selenium/webdriver/remote/command.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="2.804945">
@@ -630,10 +620,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/registration_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.13422818">
+        <state vertical-scroll-proportion="0.0">
           <caret line="34" column="60" selection-start-line="34" selection-start-column="60" selection-end-line="34" selection-end-column="60" />
           <folding>
             <element signature="e#37#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23489933">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <element signature="e#37#48#0" expanded="true" />
           </folding>
         </state>
       </provider>
