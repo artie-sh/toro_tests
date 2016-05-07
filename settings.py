@@ -10,8 +10,15 @@ reports_storage = './reports'
 chrome_driver_location = './chromedriver'
 
 name_allowed_chars = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'
-name_minimal_length = 5
-
 password_allowed_chars = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@#$%^&*()_+-=\'?'
-password_minimal_length = 6
+comment_allowed_chars = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@#$%^&*()_+-=\'? '
 
+comment_length = 20
+
+registration_data = {
+    'user_name': '',
+    'password': '',
+    'color': '',
+    'gender': '',
+    'comment': ''
+}

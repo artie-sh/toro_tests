@@ -5,6 +5,8 @@ import time
 import os
 import settings
 import random
+from lxml import etree
+from selenium import webdriver
 
 
 def get_date():
@@ -15,4 +17,17 @@ def get_time():
     return str(time.strftime('%H:%M:%S'))
 
 
-#print ''.join(random.choice(settings.name_allowed_chars) for x in range(settings.name_minimal_length))
+
+'''
+driver = webdriver.Chrome(settings.chrome_driver_location)
+driver.maximize_window()
+driver.get(settings.base_url)
+
+page_source = etree.HTML(driver.page_source)
+
+gender_inputs = driver.find_elements_by_xpath("//input[contains(@name, 'genderinput')]")
+
+for item in gender_inputs:
+    print item
+    print item.get_attribute('innerHTML')
+'''
