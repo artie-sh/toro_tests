@@ -99,7 +99,7 @@ class RegistrationFormTest(unittest.TestCase):
             rep.add_comment('<big>SUCCESS</big>')
 
 #sending email notification on successful pass
-            library.send_report('Selenium %s test successfully passed' % self.__class__.__name__)
+            library.send_report('Selenium %s test successfully passed - прикинь, тёлка, скрипт проходит и шлёт! :)' % self.__class__.__name__)
 
         except:
 #on fail, take the screenshot of the exact part of test where it happened - might help to analyze the problem later
