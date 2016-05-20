@@ -34,5 +34,5 @@ registration_data = {
 #data for automated email notification
 toro_email = 'toro.qa.automation@gmail.com'
 toro_pass = '0905wrbn'
-email_noification_recipients_list  = ('sinnlos@rambler.ru', 'berenigo@rambler.ru')
+email_noification_recipients_list  = ('artie.sh.87@gmail.com', )
 SMTP_server = 'smtp.gmail.com:587'

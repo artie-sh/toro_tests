@@ -37,33 +37,3 @@ def send_report(email_report_message):
         print 'Failed to send email notifications'
     finally:
         server.quit()
-
-
-
-
-
-send_report('hi there hest')
-
-
-
-
-
-
-
-
-
-
-
-'''
-driver = webdriver.Chrome(settings.chrome_driver_location)
-driver.maximize_window()
-driver.get(settings.base_url)
-
-page_source = etree.HTML(driver.page_source)
-
-gender_inputs = driver.find_elements_by_xpath("//input[contains(@name, 'genderinput')]")
-
-for item in gender_inputs:
-    print item
-    print item.get_attribute('innerHTML')
-'''
